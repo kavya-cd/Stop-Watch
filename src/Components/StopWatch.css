@@ -1,0 +1,14 @@
+.stop-watch{
+
+    text-align: center;
+    border: 2px black solid;
+    background-color: grey;
+    width:30%;
+    margin-left:30%
+}
+.timer{
+    text-align: center;
+    border:1px black solid;
+    background-color: white;
+    
+}
